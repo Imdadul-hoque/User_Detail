@@ -1,3 +1,4 @@
+//User file is model which element we see and work on in the API.
 class User {
   final int id;
   final String name;
